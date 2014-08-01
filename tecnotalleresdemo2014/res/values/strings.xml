@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">tecnotalleresdemo2014</string>
+    <string name="mensaje">Bienvenido TecnoTalleres 2014</string>
+    <string name="hola">Presioname!!</string>
+    <string name="nombre">Bienvenido Usuario, por presione el boton a continuación</string>
+    <string name="accion">Boton presionado !!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_2">Activity 2</string>
+
+</resources>
